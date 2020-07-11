@@ -1,5 +1,3 @@
-# PythonProject
-Cine
 lista = [[], []]
 dic = dict()
 inf = dict()
